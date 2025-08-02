@@ -147,69 +147,68 @@ With GraniCare, we envision a future where proactive care is made affordable, in
 # **Setting Up**
 
 ### IBM Dashboard
-![granicare Agent Banner](./IBM_dashboard.png)
+![granicare Agent Banner](./1.IBM_dashboard.png)
 
 ### IBM Watsonx
-![granicare Agent Banner](./IBM_watsonx.png)
-![granicare Agent Banner](./further_process_watsonx.png)
+![granicare Agent Banner](./2.IBM_watsonx.png)
+![granicare Agent Banner](./3.further_process_watsonx.png)
 
 ### IBM Cloud Object Storage
-![granicare Agent Banner](./cloudObjectStorage.png)
+![granicare Agent Banner](./4.cloudObjectStorage.png)
 
 ### Create Project
-![granicare Agent Banner](./projectCreation.png)
+![granicare Agent Banner](./5.projectCreation.png)
 
 ### IBM Watsonx.ai Runtime
-![granicare Agent Banner](./associating_WatsonxRuntime.png)
+![granicare Agent Banner](./6.associating_watsonxRuntime.png)
 
 ### Auto AI
-![granicare Agent Banner](./agenticAI_projectSection.png)
+![granicare Agent Banner](./7.agenticAI_projectSection.png)
 
 ### Foundational Model
-![granicare Agent Banner](./selectingModel.png)
-![granicare Agent Banner](./graniteModel.png)
+![granicare Agent Banner](./8.selectingModel.png)
+![granicare Agent Banner](./9.graniteModel.png)
 
 ### Granicare: Agentic AI
-![granicare Agent Banner](./interferenceOfmakingGranicare.png)
-![granicare Agent Banner](./quickStartQuestions.png)
+![granicare Agent Banner](./10.interferenceOfmakingGranicare.png)
+![granicare Agent Banner](./11.quickStartQuestions.png)
 
 * Advanced Configuration
    * Agent Instructions
-     ![granicare Agent Banner](./advancedConfig_Agent.png)
+     ![granicare Agent Banner](./12.advancedConfig_Agent.png)
 
    * Common Instructions
-     ![granicare Agent Banner](./advancedConfig_Common.png)
+     ![granicare Agent Banner](./13.advancedConfig_Common.png)
 
 * Vector Document
-   ![granicare Agent Banner](./vectorDoc.png)
+   ![granicare Agent Banner](./14.vectorDoc.png)
 
 * Tools
-   ![granicare Agent Banner](./selectingTools.jpg)
+   ![granicare Agent Banner](./15.selectingTools.jpg)
   
 
 # **Testing**  
-![granicare Agent Banner](./testing.png)
-![granicare Agent Banner](./testing2.png)
+![granicare Agent Banner](./16.testing.png)
+![granicare Agent Banner](./17.testing2.png)
 
 # **Deployment & API Reference**
-![granicare Agent Banner](./deploy1.jpg)     
-![granicare Agent Banner](./deploySuccess.jpg)
-![granicare Agent Banner](./API_reference.jpg)
-![granicare Agent Banner](./code_reference.jpg)
+![granicare Agent Banner](./18.deploy1.jpg)     
+![granicare Agent Banner](./19.deploySuccess.jpg)
+![granicare Agent Banner](./20.API_reference.jpg)
+![granicare Agent Banner](./21.code_reference.jpg)
 
 # **Preview**
-![granicare Agent Banner](./preview1.jpg)
-![granicare Agent Banner](./preview2.jpg)
-![granicare Agent Banner](./preview3.jpg)
-![granicare Agent Banner](./preview4.jpg)
-![granicare Agent Banner](./preview5.jpg)
-![granicare Agent Banner](./preview6.jpg)
-![granicare Agent Banner](./preview7.jpg)
-![granicare Agent Banner](./preview8.jpg)
-![granicare Agent Banner](./preview9.jpg)
+![granicare Agent Banner](./22.preview1.jpg)
+![granicare Agent Banner](./23.preview2.jpg)
+![granicare Agent Banner](./24.preview3.jpg)
+![granicare Agent Banner](./25.preview5.jpg)
+![granicare Agent Banner](./26.preview6.jpg)
+![granicare Agent Banner](./27.preview7.jpg)
+![granicare Agent Banner](./28.preview8.jpg)
+![granicare Agent Banner](./29.preview9.jpg)
 
 # **Resource List**
-![granicare Agent Banner](./resourceList.jpg)
+![granicare Agent Banner](./30.resourceList.jpg)
 
 
 ---
