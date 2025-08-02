@@ -68,6 +68,8 @@ With GraniCare, we envision a future where proactive care is made affordable, in
 * IBM Watsonx.ai + Granite FM
 * LangChain for agent orchestration
 
+---
+
 ## ☁️ IBM Cloud Services Used
 
 * IBM Cloud Object Storage
@@ -142,7 +144,72 @@ With GraniCare, we envision a future where proactive care is made affordable, in
 
 ## 🖼️ Screenshots
 
-*(To be added)*
+# **Setting Up**
+
+### IBM Dashboard
+![granicare Agent Banner](./IBM_dashboard.png)
+
+### IBM Watsonx
+![granicare Agent Banner](./IBM_watsonx.png)
+![granicare Agent Banner](./further_process_watsonx.png)
+
+### IBM Cloud Object Storage
+![granicare Agent Banner](./cloudObjectStorage.png)
+
+### Create Project
+![granicare Agent Banner](./projectCreation.png)
+
+### IBM Watsonx.ai Runtime
+![granicare Agent Banner](./associating_WatsonxRuntime.png)
+
+### Auto AI
+![granicare Agent Banner](./agenticAI_projectSection.png)
+
+### Foundational Model
+![granicare Agent Banner](./selectingModel.png)
+![granicare Agent Banner](./graniteModel.png)
+
+### Granicare: Agentic AI
+![granicare Agent Banner](./interferenceOfmakingGranicare.png)
+![granicare Agent Banner](./quickStartQuestions.png)
+
+* Advanced Configuration
+   * Agent Instructions
+     ![granicare Agent Banner](./advancedConfig_Agent.png)
+
+   * Common Instructions
+     ![granicare Agent Banner](./advancedConfig_Common.png)
+
+* Vector Document
+   ![granicare Agent Banner](./vectorDoc.png)
+
+* Tools
+   ![granicare Agent Banner](./selectingTools.jpg)
+  
+
+# **Testing**  
+![granicare Agent Banner](./testing.png)
+![granicare Agent Banner](./testing2.png)
+
+# **Deployment & API Reference**
+![granicare Agent Banner](./deploy1.jpg)     
+![granicare Agent Banner](./deploySuccess.jpg)
+![granicare Agent Banner](./API_reference.jpg)
+![granicare Agent Banner](./code_reference.jpg)
+
+# **Preview**
+![granicare Agent Banner](./preview1.jpg)
+![granicare Agent Banner](./preview2.jpg)
+![granicare Agent Banner](./preview3.jpg)
+![granicare Agent Banner](./preview4.jpg)
+![granicare Agent Banner](./preview5.jpg)
+![granicare Agent Banner](./preview6.jpg)
+![granicare Agent Banner](./preview7.jpg)
+![granicare Agent Banner](./preview8.jpg)
+![granicare Agent Banner](./preview9.jpg)
+
+# **Resource List**
+![granicare Agent Banner](./resourceList.jpg)
 
 
 ---
