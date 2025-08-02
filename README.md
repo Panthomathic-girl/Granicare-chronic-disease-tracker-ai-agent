@@ -1,6 +1,6 @@
 # Granicare-chronic-disease-tracker-ai-agent
 
-![Travel Agent Banner](./Travel_agent/introImage.png)
+![granicare Agent Banner](./introImage.png)
 
 GraniCare is an AI-powered agentic healthcare assistant designed to support patients with chronic diseases such as diabetes, hypertension, and cardiovascular conditions. Built using IBM Cloud Lite services and the Granite Foundation Model, this virtual assistant empowers users with personalized healthcare insights and real-time support to manage long-term medical conditions effectively.
 
